@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gdrive://17b9EsEbpLEpuxyUGo7qbdBMCYab8Dw48
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = C:\Users\Dell\Downloads\mlopstask6-86a7a0f18bfe.json
